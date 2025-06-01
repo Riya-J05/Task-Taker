@@ -78,4 +78,5 @@ Here’s how the menu works interactively:
 
 
  🙌 Acknowledgments
-This project is inspired by the roadmap.sh "Task Tracker" CLI project challenge.
+- This project is inspired by the roadmap.sh "Task Tracker" CLI project challenge.
+- URL of the project: https://roadmap.sh/projects/task-tracker
