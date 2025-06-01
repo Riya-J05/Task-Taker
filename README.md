@@ -49,8 +49,8 @@ Here’s how the menu works interactively:
 
 
 📁 Task Structure
-Each task is stored in JSON format with the following fields:
-{
+- Each task is stored in JSON format with the following fields:
+- {
   "id": 1,
   "desc": "Buy groceries",
   "status": "in-progress"
